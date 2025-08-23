@@ -16,8 +16,7 @@ The data covers the years **2014 to 2017**, showing how sales evolved and the pe
 ---
 
 ## 📊 Visualization
-![Sales Trend Area Chart](./Screenshot-2025-08-23-144814.png)
-
+![Sales Trend Area Chart](./https://github.com/chinwe-tech/Cecilia_chinweokwu_okonkwo/blob/main/Screenshot%202025-08-23%20144814.png
 The area chart shows:  
 - **2014** had the highest sales volume.  
 - Sales declined sharply in **2015**, recovered slightly in **2016**, and dropped again in **2017**.  
