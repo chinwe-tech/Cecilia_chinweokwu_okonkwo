@@ -16,6 +16,8 @@ The data covers the years **2014 to 2017**, showing how sales evolved and the pe
 ---
 
 ## 📊 Visualization
+<img width="1379" height="782" alt="Screenshot 2025-08-23 144814" src="https://github.com/user-attachments/assets/eb42118e-2a93-47e5-8951-7c6cb6b5a623" />
+
 ![Sales Trend Area Chart](./https://github.com/chinwe-tech/Cecilia_chinweokwu_okonkwo/blob/main/Screenshot%202025-08-23%20144814.png
 The area chart shows:  
 - **2014** had the highest sales volume.  
